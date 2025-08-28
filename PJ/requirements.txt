@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-pymysql
-python-multipart
-jinja2
-passlib[bcrypt]
-python-dotenv
